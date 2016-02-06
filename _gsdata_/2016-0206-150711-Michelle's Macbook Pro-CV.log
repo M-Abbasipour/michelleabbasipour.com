@@ -1,0 +1,56 @@
+2016-02-06 15:07:11: Disable Copy original filesystem names option. CV's sides are not support it.
+2016-02-06 15:07:11: -- Analysis Started by User
+2016-02-06 15:07:11: L: State file does not exist: /Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/_gsdata_/_file_state_v4._gs
+2016-02-06 15:07:11: R: State file does not exist: ftp://79.170.44.30/public_html/michelleabbasipour.com/_gsdata_/_file_state_v4._gs
+2016-02-06 15:07:12: /css/bootstrap-theme.css: Conflict: New files that differ
+2016-02-06 15:07:12: /css/bootstrap-theme.css.map: Conflict: New files that differ
+2016-02-06 15:07:12: /css/bootstrap-theme.min.css: Conflict: New files that differ
+2016-02-06 15:07:12: /css/bootstrap-theme.min.css.map: Conflict: New files that differ
+2016-02-06 15:07:12: /css/bootstrap.css: Conflict: New files that differ
+2016-02-06 15:07:12: /css/bootstrap.css.map: Conflict: New files that differ
+2016-02-06 15:07:12: /css/bootstrap.min.css: Conflict: New files that differ
+2016-02-06 15:07:12: /css/bootstrap.min.css.map: Conflict: New files that differ
+2016-02-06 15:07:12: /css/grid.css: Conflict: New files that differ
+2016-02-06 15:07:12: /css/style.css: Conflict: New files that differ
+2016-02-06 15:07:12: /fonts/glyphicons-halflings-regular.eot: Conflict: New files that differ
+2016-02-06 15:07:12: /fonts/glyphicons-halflings-regular.svg: Conflict: New files that differ
+2016-02-06 15:07:12: /fonts/glyphicons-halflings-regular.ttf: Conflict: New files that differ
+2016-02-06 15:07:12: /fonts/glyphicons-halflings-regular.woff: Conflict: New files that differ
+2016-02-06 15:07:12: /fonts/glyphicons-halflings-regular.woff2: Conflict: New files that differ
+2016-02-06 15:07:12: /grid.html: Conflict: New files that differ
+2016-02-06 15:07:12: /includes/footer.php: Conflict: New files that differ
+2016-02-06 15:07:12: /includes/header.php: Conflict: New files that differ
+2016-02-06 15:07:12: /index.php: Conflict: New files that differ
+2016-02-06 15:07:12: /js/bootstrap.js: Conflict: New files that differ
+2016-02-06 15:07:12: /js/bootstrap.min.js: Conflict: New files that differ
+2016-02-06 15:07:12: /js/npm.js: Conflict: New files that differ
+2016-02-06 15:07:12: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2016-02-06 15:07:12: Changes: 22, Conflicts: 22, CopyTime: 0, CopyState: 0/4, Errors: 0, All: 27
+2016-02-06 15:07:12: -- Analysis Complete. Time 00:00:01, Speed: 27 files/s
+2016-02-06 15:07:12: 
+2016-02-06 15:07:45: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2016-02-06 15:07:45: == Sync Started by User
+2016-02-06 15:07:45: /css/bootstrap-theme.css: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /css/bootstrap-theme.css.map: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /css/bootstrap-theme.min.css: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /css/bootstrap-theme.min.css.map: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /css/bootstrap.css: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /css/bootstrap.css.map: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /css/bootstrap.min.css: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /css/bootstrap.min.css.map: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /css/grid.css: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /css/style.css: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /fonts/glyphicons-halflings-regular.eot: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /fonts/glyphicons-halflings-regular.svg: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /fonts/glyphicons-halflings-regular.ttf: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /fonts/glyphicons-halflings-regular.woff: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /fonts/glyphicons-halflings-regular.woff2: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /grid.html: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /includes/footer.php: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /includes/header.php: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /index.php: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /js/bootstrap.js: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /js/bootstrap.min.js: unresolved conflict results in No Copy
+2016-02-06 15:07:45: /js/npm.js: unresolved conflict results in No Copy
+2016-02-06 15:07:46: == Sync Complete. Time: 00:00:02, Speed: 13.3 KB/s, OK: 4, Errors: 0, Conflicts: 22
+2016-02-06 15:07:46: 
