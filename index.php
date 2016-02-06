@@ -2,29 +2,30 @@
     include 'includes/header.php';
 ?>
 
-    <div class="container page_wrapper">
+    <div class="container-fluid page_wrapper">
         
       <div class="starter_template row">
-            <div class=" col-xs-12 col-md-12">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
           
                     <h1 id="header_text">
                        <span class="magenta">m</span>ichelle <span class="magenta">a</span>bbasipour
                     </h1>
-                  <div class="col-md-4 col-md-offset-4 pic">
+                <br>
+                  <div class="col-sm-4 col-sm-offset-4 col-md-4 col-md-offset-4 pic">
                         <img id='featured_img' src="images/michelle.jpg">
                 </div>
             </div>
         
         <!-- contact details --> 
         <div class="row">
-            <div class="col-md-4"><h4><span class="magenta">w:</span> michelleabbasipour.com</h4></div>
-            <div class="col-md-3"><h4><span class="magenta">t:</span> 07568 530324</h4></div>
-            <div class="col-md-5"><h4><span class="magenta">e:</span> <a href='mailto:michelle2.abbasipour@live.uwe.ac.uk?Subject: enquiry from michelleabbasipour.com'> michelle2.abbasipour@live.uwe.ac.uk</a></h4></div>
+            <div class="col-xs-12 col-sm-12 col-md-4"><h4><span class="magenta">w:</span><a href='http://www.michelleabbasipour.com' target="_blank"> michelleabbasipour.com</a></h4></div>
+            <div class="col-xs-12 col-sm-12 col-md-3"><h4><span class="magenta">t:</span> 07568 530324</h4></div>
+            <div class="col-xs-12 col-sm-12 col-md-5"><h4><span class="magenta">e:</span> <a href='mailto:michelle2.abbasipour@live.uwe.ac.uk?Subject: enquiry from michelleabbasipour.com'> michelle2.abbasipour@live.uwe.ac.uk</a></h4></div>
         </div>
         
         <div class="row narrow_row">
-            <div class="col-md-12" id="border_adjustment"></div>
-            <div class="col-md-12"></div>
+            <div class="col-sm-12 col-md-12" id="border_adjustment"></div>
+            <div class="col-sm-12 col-md-12"></div>
         </div>         
 
           
