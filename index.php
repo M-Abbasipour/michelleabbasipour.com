@@ -52,7 +52,7 @@
             
                 <h3 class='narrow'>SECONDARY EDUCATION</h3>
                 <h4 class='narrow magenta'>'A' LEVELS</H4>
-                <p class='emphasis'>The Red Maids' School</p>
+                <p class='emphasis'><a href='http://http://www.redmaids.co.uk' target="_blank">The Red Maids' School</a></p>
                 <p class='emphasis'>From 1994 to 1996</p>
                 <p class=''>Economics: D</p>
                 <p class=''>French: E</p>
@@ -62,7 +62,7 @@
             
                 <h3 class='narrow'>SECONDARY EDUCATION</h3>
                 <h4 class='narrow magenta'>GCSEs</H4>
-                <p class='emphasis'>The Red Maids' School</p>
+                <p class='emphasis'><a href='http://http://www.redmaids.co.uk' target="_blank">The Red Maids' School</a></p>
                 <p class='emphasis'>From 1989 to 1994</p>
                 <p class=''>Art: A</p>
                 <p class=''>Biology: C</p>
@@ -136,13 +136,13 @@ Examples of code that I have written can be found on my repositories on GitHub a
                 <p>In my first and second years I was given assignments which required creating a website from design to development. The majority of my third year was spent on a creative technologies project where I chose to research, design and develop a mobile salon management web application. This involved user research, testing and evaluation, creating wireframes, static and interactive mockups and then researching the technologies required to implement the design and functionality. These projects can be accessed at michelleabbasipour.com</p><br>
             
                 <h1 class='narrow magenta'>WORK EXPERIENCE</h1>
-                <h3 class='narrow'>CONSULTANT &amp; TEAM DEVELOPER <span class="magenta">/</span> <span class="grey">SLIMMING WORLD</span></h3>
+                <h3 class='narrow'>CONSULTANT &amp; TEAM DEVELOPER <span class="magenta">/</span> <span class="grey"> <a href='http://www.slimmingworld.co.uk' target="_blank">SLIMMING WORLD</a></span></h3>
                 <h4 class="magenta"> {November 2010 - July 2013}</h4>
                 <p>Running my own groups as a Slimming World consultant, supporting over 100 members on a weekly basis. On becoming a Team Developer in November 2012, I also supported a team of six consultants who brought an additional ten groups and 600 members under my management.
 Achieved a Ruby award for welcoming 40 new members in one night to an opening group in April 2011. Achieved a Diamond award for welcoming more than 60 new members to my group in January 2012. Was awarded a Silver award in January 2012 for maintaining over 100 members on each week for the month.</p><br>
                 
                 
-                <h3 class='narrow'>RECRUITMENT ASSISTANT <span class="magenta">/</span> <span class="grey">NHS BLOOD AND TRANSPLANT</span></h3>
+                <h3 class='narrow'>RECRUITMENT ASSISTANT <span class="magenta">/</span> <span class="grey"><a href='http://www.nhsbt.nhs.uk' target="_blank">NHS BLOOD AND TRANSPLANT</a></span></h3>
                 <h4 class="magenta"> {November 2010 - July 2013}</h4>
                 <p>Working within a team to recruit staff for NHSBT which included processing applications and to organise interviews for centres all over England and North Wales, as well as other administra- tive duties.
 Was given an “acting up” position for a year into a Senior Recruitment Assistant to cover maternity leave</p>
