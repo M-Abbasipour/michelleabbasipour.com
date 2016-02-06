@@ -17,6 +17,15 @@ body {
     font-family: 'Muli', sans-serif;
     font-size: 1.5em;
 }
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: #CC0066;
+    text-decoration: none;
+}
 p {
     font-size: 1.4em;
 }
@@ -86,5 +95,6 @@ h1, h2, h3, h4, p {
     padding-top: 0;
 }
 
-
-
+#featured_img {
+    width: 40%;
+}

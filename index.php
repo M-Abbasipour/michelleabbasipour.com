@@ -3,21 +3,23 @@
 ?>
 
     <div class="container page_wrapper">
-
+        
       <div class="starter_template row">
             <div class=" col-xs-12 col-md-12">
           
                     <h1 id="header_text">
                        <span class="magenta">m</span>ichelle <span class="magenta">a</span>bbasipour
                     </h1>
-                
+                  <div class="col-md-4 col-md-offset-4 pic">
+                        <img id='featured_img' src="images/michelle.jpg">
+                </div>
             </div>
         
         <!-- contact details --> 
         <div class="row">
             <div class="col-md-4"><h4><span class="magenta">w:</span> michelleabbasipour.com</h4></div>
             <div class="col-md-3"><h4><span class="magenta">t:</span> 07568 530324</h4></div>
-            <div class="col-md-5"><h4><span class="magenta">e:</span> michelle2.abbasipour@live.uwe.ac.uk</h4></div>
+            <div class="col-md-5"><h4><span class="magenta">e:</span> <a href='mailto:michelle2.abbasipour@live.uwe.ac.uk?Subject: enquiry from michelleabbasipour.com'> michelle2.abbasipour@live.uwe.ac.uk</a></h4></div>
         </div>
         
         <div class="row narrow_row">
@@ -34,7 +36,7 @@
                 <h1 class='narrow magenta'>EDUCATION</h1>
                 <h3 class='narrow'>BACHELORS OF SCIENCE</h3>
                 <h4 class='magenta'>DIGITAL MEDIA</H4>
-                <p class='emphasis'>University of the West of England</p>
+                <p class='emphasis'><a href='http://www.uwe.ac.uk' target="_blank">University of the West of England</a></p>
                 <p class='emphasis'>From 2013 to 2016</p>
                 <p class=''>Predicted: First</p>
                 
@@ -42,7 +44,7 @@
             
                 <h3 class='narrow'>FOUNDATION YEAR</h3>
                 <h4 class='narrow magenta'>COMPUTING</H4>
-                <p class='emphasis'>University of the West of England</p>
+                <p class='emphasis'><a href='http://www.uwe.ac.uk' target="_blank">University of the West of England</a></p>
                 <p class='emphasis'>From 2012 to 2013</p>
                 <p class=''>Results: First</p>
                 
@@ -114,8 +116,9 @@
                         <span class="magenta">/</span>
                         Walking my dogs
                 </p>    
-
-
+                
+                  
+                
             </div>
             
             <!-- main details -->
