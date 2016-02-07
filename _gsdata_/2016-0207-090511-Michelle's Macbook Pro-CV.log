@@ -1,0 +1,17 @@
+2016-02-07 09:05:13: -- Analysis Started by On File Change Incremental
+2016-02-07 09:05:14: /.git/logs/HEAD: Conflict: New files that differ
+2016-02-07 09:05:14: /.git/logs/refs/heads/master: Conflict: New files that differ
+2016-02-07 09:05:14: /.git/logs/refs/remotes/origin/master: Conflict: New files that differ
+2016-02-07 09:05:14: /.git/refs/heads/master: Conflict: New files that differ
+2016-02-07 09:05:14: /.git/refs/remotes/origin/master: Conflict: New files that differ
+2016-02-07 09:05:14: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2016-02-07 09:05:14: Changes: 10, Conflicts: 5, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 124
+2016-02-07 09:05:14: Left to Right: Copy File: 5 
+2016-02-07 09:05:14: == Sync Started by On File Change Incremental
+2016-02-07 09:05:14: /.git/logs/HEAD: unresolved conflict results in No Copy
+2016-02-07 09:05:14: /.git/logs/refs/heads/master: unresolved conflict results in No Copy
+2016-02-07 09:05:14: /.git/logs/refs/remotes/origin/master: unresolved conflict results in No Copy
+2016-02-07 09:05:14: /.git/refs/heads/master: unresolved conflict results in No Copy
+2016-02-07 09:05:14: /.git/refs/remotes/origin/master: unresolved conflict results in No Copy
+2016-02-07 09:05:14: == Sync Complete. Time: 00:00:00, Speed: 0.0/s, OK: 0, Errors: 0, Conflicts: 5
+2016-02-07 09:05:14: 
