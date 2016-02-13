@@ -2,7 +2,7 @@
     include 'includes/header.php';
 ?>
 
-    <div class="container-fluid page_wrapper">
+    <div class="container page_wrapper">
         
       <div class="starter_template row">
             <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
@@ -15,13 +15,21 @@
                         <img id='featured_img' src="images/michelle.jpg">
                 </div>
             </div>
+          
+          <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+                      <span id="cv_btn"><a href="files/Michelle_Abbasipour_CV.pdf"><button type="button" class="btn btn-info btn-lg">Download CV</button></a></span>
+                    </div>
+                </div>
         
         <!-- contact details --> 
-        <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-4"><h4><span class="magenta">w:</span><a href='http://www.michelleabbasipour.com' target="_blank"> michelleabbasipour.com</a></h4></div>
-            <div class="col-xs-12 col-sm-12 col-md-3"><h4><span class="magenta">t:</span> 07568 530324</h4></div>
-            <div class="col-xs-12 col-sm-12 col-md-5"><h4><span class="magenta">e:</span> <a href='mailto:michelle2.abbasipour@live.uwe.ac.uk?Subject: enquiry from michelleabbasipour.com'> michelle2.abbasipour@live.uwe.ac.uk</a></h4></div>
+        <div class="row contact_details">
+            <div class="col-xs-12 col-sm-12 col-md-4 web"><h4><span class="magenta">w:</span><a href='http://www.michelleabbasipour.com' target="_blank"> michelleabbasipour.com</a></h4></div>
+            <div class="col-xs-12 col-sm-12 col-md-3 number"><h4><span class="magenta">t:</span> 07568 530324</h4></div>
+            <div class="col-xs-12 col-sm-12 col-md-5 email"><h4><span class="magenta">e:</span> <a href='mailto:michelle2.abbasipour@live.uwe.ac.uk?Subject: enquiry from michelleabbasipour.com'> michelle2.abbasipour@live.uwe.ac.uk</a></h4></div>
+            
         </div>
+
         
         <div class="row narrow_row">
             <div class="col-sm-12 col-md-12" id="border_adjustment"></div>
@@ -95,6 +103,8 @@
                         SQL
                         <span class="magenta">/</span>
                         XML
+                        <span class="magenta">/</span>
+                        Adobe Illustrator
                 </p>
                 
                 <h1 class=' magenta header1'>INTERESTS &amp; HOBBIES</h1>
@@ -118,8 +128,12 @@
                         Walking my dogs
                 </p>    
                 
-                  
-                
+                <div class="row hidden_sml">
+                    <div class="col-xs-12 col-xs-12 col-sm-12 col-md-12 text-center">
+                      <span id="cv_btn"><a href="files/Michelle_Abbasipour_CV.pdf"><button type="button" class="btn btn-info btn-lg">Download CV</button></a></span>
+                    </div>
+                </div>
+            
             </div>
             
             <!-- main details -->
@@ -145,10 +159,16 @@ Achieved a Ruby award for welcoming 40 new members in one night to an opening gr
                 
                 <h3 class='narrow'>RECRUITMENT ASSISTANT <span class="magenta">/</span> <span class="grey"><a href='http://www.nhsbt.nhs.uk' target="_blank">NHS BLOOD AND TRANSPLANT</a></span></h3>
                 <h4 class="magenta"> {November 2010 - July 2013}</h4>
-                <p>Working within a team to recruit staff for NHSBT which included processing applications and to organise interviews for centres all over England and North Wales, as well as other administra- tive duties.
+                <p>Working within a team to recruit staff for NHSBT which included processing applications and to organise interviews for centres all over England and North Wales, as well as other administrative duties.
 Was given an “acting up” position for a year into a Senior Recruitment Assistant to cover maternity leave</p>
             
             </div>
+            
+                  <div class="row hidden_lrg">
+                    <div class="col-xs-12 col-xs-12 col-sm-12 col-md-12 text-center">
+                      <span id="cv_btn_2"><a href="files/Michelle_Abbasipour_CV.pdf"><button type="button" class="btn btn-info btn-lg">Download CV</button></a></span>
+                    </div>
+                </div>
         </div>
           
       </div>

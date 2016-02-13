@@ -10,7 +10,7 @@
     padding-bottom: 15px;
 }
 .container-fluid {
-    width: 80%;
+    width: 90%;
 }
 /* body styling */
 body {
@@ -99,13 +99,32 @@ h1, h2, h3, h4, p {
     width: 40%;
 }
 
+#cv_btn_top button, #cv_btn button, #cv_btn_2 button{
+  background-color: black;
+}
+
+#cv_btn_top button:hover, #cv_btn button:hover, #cv_btn_2 button:hover {
+    background-color: #CC0066;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
 /******* media queries *******/
 /* Extra small devices (phones, less than 768px) */
 /* No media query since this is the default in Bootstrap */
 
+@media screen and (max-width: 350px) { 
+    .email h4 {
+        font-size: 0.9em;
+    }
+}
+
 /* Small devices (tablets, 768px and up) */
 @media screen and (max-width: 640px) { 
-    .container-fluid {
+    .container {
         width: 100%;
     }
     #main_details, #sidebar {
@@ -117,10 +136,17 @@ h1, h2, h3, h4, p {
     p {
         font-size: 1em;
     }
+    
+    .hidden_sml {
+        display: none;
+    }
 }
 
 /* Small devices (tablets, 768px and up) */
 @media screen and (max-width: 768px) { 
+    .container {
+        width: 100%;
+    }
     #main_details, #sidebar {
         border-left: none;
     }
@@ -133,15 +159,41 @@ h1, h2, h3, h4, p {
     #header_text{
         font-size: 3.7em;
     }
+    .hidden_sml {
+        display: none;
+    }
 
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media screen and (max-width: 992px) { 
+    .container {
+        width: 100%;
+    }
+      .hidden_sml {
+        display: none;
+    }
+    
 
 }
 
+/* Medium devices (desktops, 992px and up) */
+@media only screen 
+  and (min-width: 990px) 
+  and (max-width: 1215px) 
+  and (orientation: landscape) { 
+       .container {
+        width: 100%;
+    }
+      h4 {
+          font-size:  1.28em;
+      }
+}
+
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width: @screen-lg-min) { 
+@media screen and (min-width: 1000px) { 
+    .hidden_lrg{
+        display: none;
+    }
 
 }
