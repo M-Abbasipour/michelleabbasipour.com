@@ -1,0 +1,7 @@
+2016-02-12 10:26:39: -- Analysis Started by On File Change Incremental
+2016-02-12 10:26:39: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 109
+2016-02-12 10:26:39: Left to Right: Copy File: 1 
+2016-02-12 10:26:39: == Sync Started by On File Change Incremental
+2016-02-12 10:26:39: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/css/style.css' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/css/style.css'
+2016-02-12 10:26:40: == Sync Complete. Time: 00:00:01, Speed: 4.8 KB/s, OK: 1, Errors: 0
+2016-02-12 10:26:41: 

@@ -1,0 +1,15 @@
+2016-02-12 09:35:18: -- Analysis Started by On File Change Incremental
+2016-02-12 09:35:18: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 109
+2016-02-12 09:35:18: Left to Right: Copy File: 1 
+2016-02-12 09:35:18: == Sync Started by On File Change Incremental
+2016-02-12 09:35:19: Source file has changed during Sync from '[file] size=10142 accu-time=2016-02-12 09:35:13 attr=644' to 'size=10142 time=2016-02-12 09:35:18', will be retried
+2016-02-12 09:35:19: Destination side file adjusted to '[file] size=10142 accu-time=2016-02-12 09:35:15 file-time=2016-02-12 09:35:18 attr=644', to force retry
+2016-02-12 09:35:19: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/index.php' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/index.php'
+2016-02-12 09:35:19: == Sync Complete. Time: 00:00:01, Speed: 11.6 KB/s, OK: 1, Errors: 0
+2016-02-12 09:35:20: -- Analysis Started by On File Change PostSync Re-Analyze
+2016-02-12 09:35:20: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 109
+2016-02-12 09:35:20: Left to Right: Copy File: 1 
+2016-02-12 09:35:20: == Sync Started by On File Change PostSync Re-Analyze
+2016-02-12 09:35:20: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/index.php' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/index.php'
+2016-02-12 09:35:20: == Sync Complete. Time: 00:00:00, Speed: 0.0/s, OK: 1, Errors: 0
+2016-02-12 09:35:20: 
