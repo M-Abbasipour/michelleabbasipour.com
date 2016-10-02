@@ -1,0 +1,6 @@
+2016-06-16 09:42:04: -- Analysis Started by On File Change 1st Full Analyze
+2016-06-16 09:42:23: Changes: 27, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 148
+2016-06-16 09:42:23: Left to Right: Copy File: 26 Delete File: 1 
+2016-06-16 09:42:23: == Sync Started by On File Change 1st Full Analyze
+2016-06-16 09:42:23: 69% (27 / 39) files have changed (excluding renames), more than a threshold of 50%. So the job will not synchronize automatically.
+2016-06-16 09:42:23: 

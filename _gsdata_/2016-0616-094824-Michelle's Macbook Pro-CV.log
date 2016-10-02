@@ -1,0 +1,40 @@
+2016-06-16 09:48:25: -- Analysis Started by User
+2016-06-16 09:48:32: Changes: 27, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0, All: 148
+2016-06-16 09:48:32: Left to Right: Copy File: 26 Delete File: 1 
+2016-06-16 09:48:32: -- Analysis Complete. Time 00:00:08, Speed: 4 files/s
+2016-06-16 09:48:32: 
+2016-06-16 09:48:42: == Sync Started by User
+2016-06-16 09:48:42: Delete Folder 'ftp://79.170.44.30/public_html/michelleabbasipour.com/michelleabbasipour'
+2016-06-16 09:48:44: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/archive/grid.html' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/archive/grid.html'
+2016-06-16 09:48:48: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/css/bootstrap-theme.css' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/css/bootstrap-theme.css'
+2016-06-16 09:48:49: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/css/bootstrap-theme.css.map' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/css/bootstrap-theme.css.map'
+2016-06-16 09:48:51: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/css/bootstrap-theme.min.css' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/css/bootstrap-theme.min.css'
+2016-06-16 09:48:51: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/css/bootstrap-theme.min.css.map' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/css/bootstrap-theme.min.css.map'
+2016-06-16 09:48:54: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/css/bootstrap.css' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/css/bootstrap.css'
+2016-06-16 09:49:04: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/css/bootstrap.css.map' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/css/bootstrap.css.map'
+2016-06-16 09:49:10: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/css/bootstrap.min.css' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/css/bootstrap.min.css'
+2016-06-16 09:49:13: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/css/bootstrap.min.css.map' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/css/bootstrap.min.css.map'
+2016-06-16 09:49:15: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/css/grid.css' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/css/grid.css'
+2016-06-16 09:49:16: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/css/style.css' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/css/style.css'
+2016-06-16 09:49:21: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/ctp/index.php' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/ctp/index.php'
+2016-06-16 09:49:21: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/ctp/report.php' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/ctp/report.php'
+2016-06-16 09:49:52: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/files/Michelle_Abbasipour_CV.pdf' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/files/Michelle_Abbasipour_CV.pdf'
+2016-06-16 09:49:53: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/fonts/glyphicons-halflings-regular.eot' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/fonts/glyphicons-halflings-regular.eot'
+2016-06-16 09:49:56: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/fonts/glyphicons-halflings-regular.svg' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/fonts/glyphicons-halflings-regular.svg'
+2016-06-16 09:50:00: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/fonts/glyphicons-halflings-regular.ttf' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/fonts/glyphicons-halflings-regular.ttf'
+2016-06-16 09:50:01: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/fonts/glyphicons-halflings-regular.woff' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/fonts/glyphicons-halflings-regular.woff'
+2016-06-16 09:50:01: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/fonts/glyphicons-halflings-regular.woff2' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/fonts/glyphicons-halflings-regular.woff2'
+2016-06-16 09:50:17: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/images/michelle.jpg' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/images/michelle.jpg'
+2016-06-16 09:50:18: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/includes/footer.php' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/includes/footer.php'
+2016-06-16 09:50:19: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/includes/header.php' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/includes/header.php'
+2016-06-16 09:50:20: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/index.php' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/index.php'
+2016-06-16 09:50:22: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/js/bootstrap.js' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/js/bootstrap.js'
+2016-06-16 09:50:23: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/js/bootstrap.min.js' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/js/bootstrap.min.js'
+2016-06-16 09:50:24: Copy Over '/Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/js/npm.js' -> 'ftp://79.170.44.30/public_html/michelleabbasipour.com/js/npm.js'
+2016-06-16 09:50:28: Deleted Recycled: /Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/_gsdata_/_saved_/css/style.css
+2016-06-16 09:50:28: Deleted Recycled: /Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/_gsdata_/_saved_/.git/hooks/pre-push
+2016-06-16 09:50:28: Deleted Recycled: /Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/_gsdata_/_saved_/includes/header.php
+2016-06-16 09:50:28: Deleted Recycled: /Users/Michelle/Dropbox/~HOSTING~/public_html/michelleabbasipour.com/_gsdata_/_saved_/index.php
+2016-06-16 09:50:29: Deleted Recycled: ftp://79.170.44.30/public_html/michelleabbasipour.com/_gsdata_/_saved_/.git/hooks/pre-push
+2016-06-16 09:51:11: == Sync Complete. Time: 00:02:32, Speed: 22.4 KB/s, OK: 27, Errors: 0
+2016-06-16 09:51:11: 
